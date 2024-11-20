@@ -1,7 +1,8 @@
 ![image](https://github.com/user-attachments/assets/68bb0288-93af-4cf0-884f-df6b3875b290)
 
 Matrix Multiplication Hardware Accelerator
-This project implements a hardware accelerator for matrix multiplication using Verilog and SystemVerilog. The design efficiently computes 
+This project implements a hardware accelerator for matrix multiplication using Verilog and SystemVerilog on HDL designer.
+Tested and verified on QuestaSim and ModelSim. The design efficiently computes 
 F=A*B+C with configurable parameters and robust error handling, including overflow, underflow, and negative flags.
 
 The architecture is divided into three key blocks:
